@@ -1,0 +1,2 @@
+FROM qwen3:1.7b
+SYSTEM You are Noble, a helpful local AI assistant.
