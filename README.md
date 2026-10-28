@@ -56,11 +56,11 @@ Noble / Qwen3 1.7B
 
 ### Noble Interface
 
-![Noble Interface](screenshots/noble-interface.png)
+![Noble Interface](screenshots/Noble-Interface.png)
 
 ### Noble Local AI Demo
 
-![Noble Demo](screenshots/noble-demo.png)
+![Noble Demo](screenshots/Noble-Demo.png)
 
 ### Docker Stack and Resource Usage
 
@@ -68,7 +68,7 @@ Noble / Qwen3 1.7B
 
 ### Tailscale Remote Access
 
-![Tailscale Remote Access](screenshots/tailscale-remote-access.png)
+![Tailscale Remote Access](screenshots/Tailscale-Remote-Access.png)
 
 ## Noble Modelfile
 
